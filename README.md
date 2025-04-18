@@ -6,6 +6,7 @@ This is a Competition based project organized by Design Forge. Here we have been
 1. 🥇Prototype Link: https://www.figma.com/proto/ginaGynTB7QxhNQM2md7fE/Youtube-IN?page-id=0%3A1&node-id=6-40&viewport=-1635%2C-1088%2C0.38&t=i1MqVaSRQsApngmL-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=6%3A40
 
 2. 🥈Instructions before opening the prototype:
+   
   a. Note* its an actual prototype that means you can actually interact with the components.
   b. The resolution of the Frame is 1920x1080, so if your device is same resolution click on fit width on the upper right corner. else click Fill Screen for full view.
      Now Select on Keyboard Ctrl + \ to hide unwanted UI of Figma.
